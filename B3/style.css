@@ -1,0 +1,74 @@
+* {
+    margin: auto;
+}
+
+.header {
+    font-size: 26px;
+    background-color: green;
+    margin: 0px;
+}
+
+.body1 {
+    margin: 0px;
+    text-align: center;
+    font-size: 28px;
+    color: white;
+    background-color: black;
+}
+
+.body2 {
+    margin: 0px;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: green
+}
+
+.body3 {
+    margin: 0px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+
+.body4 {
+    margin: 0px;
+    background-color: gainsboro;
+    font-size: 40px;
+    text-align: center;
+}
+
+.body5 {
+    margin: 0px;
+    background-color: gainsboro;
+    font-size: 18px;
+}
+
+.body5 li {
+    margin: 20px;
+}
+
+.body6 {
+    margin: 0px;
+    text-align: left;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+}
+
+.body7 {
+    background-color: gainsboro;
+    font-size: 18px;
+}
+
+.body8 {
+    background-color: green;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: black;
+    color: green;
+    font-size: 36px;
+    text-align: left;
+}
