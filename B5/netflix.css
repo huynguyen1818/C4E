@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.nenphim {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://assets.nflxext.com/ffe/siteui/vlv3/3e521d6d-a53b-4c3f-a85f-dd77c06f7ac7/54cd5a62-8b2a-44f8-a55a-4c1a62028228/VN-vi-20220425-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    opacity: 1;
+}
+.header_logo {
+    height: 90px;
+}
+.log a{
+    display:inline-block;
+    text-decoration: none;
+    margin-left: 45px;
+    height: 100%;
+}
+
+.logo a h1 {
+    color:#e50914;
+    font-size: 50px;
+    line-height: 90px;
+}
+.body{
+    width: 450px;
+    height: 660px;
+    background: rgba(0, 0, 0, .75);
+    margin: 0 auto;
+    border-radius: 4px;
+}
+.body_box{
+    margin-bottom: 90px;
+    padding: 60px 68px 40px;
+    width: 314px;
+}
+.login_form{
+    display: inline-flex;
+    flex-direction: column;
+    height: 342px;
+    width: 314px;
+}
+.login_form h1{
+    margin-bottom:28px ;
+    color: #fff;
+}
+.login_form form{
+    display: flex;
+    flex-direction: column;
+}
+.tendangnhap {
+    padding-bottom: 16px;
+}
+.taikhoan {
+    height: 50px;
+    position: relative;
+    width: 100%;
+    background-color: #333;
+    border-radius: 4px;
+}
+.dangnhap {
+    width: 274px;
+    height: 34px;
+    padding: 16px 20px 0;
+    color: #fff;
+    background-color: #333;
+    border-radius: 4px;
+    border: none;
+}
+.content_dangnhap {
+    position: absolute;
+    left: 6%;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #8c8c8c;
+}
+.body_2{
+    margin: 24px 0 12px;
+    padding: 16px;
+    background: #e50914;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.form_help{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.login_nav{
+    margin-bottom: -5px;
+    height: 19.2px;
+    width: 190.78px;
+    display: flex;
+    align-items: center;
+}
+.login_nav label {
+    color: #b0acac;
+    font-size: 14px;
+    width: 100%;
+    margin-left: 2px;
+    font-weight: 300;
+}
+.form_help a {
+    text-decoration: none;
+    color: #b0acac;
+    font-size: 14px;
+    font-weight: 300;
+}
+.footer{
+    width: 100%;
+    height: 216px;
+    box-sizing: border-box
+}
+.linkfb{
+    height: 36px;
+    display: flex;
+    align-items: flex-end;
+}
+.linkfb button{
+     display: flex;
+    background-color: transparent;
+    border: none;
+    align-items: center;
+    margin-top: 16px;
+    cursor: pointer;
+
+}
+.box_1 {
+    display: flex;
+    height: 18.4px;
+    margin-top: 16px;
+    align-items: center;
+}
+.box_1 span {
+    color: #8c8c8c;
+}
+.box a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+.box_2 {
+    margin-top: 11px;
+    font-size: 13px;
+    color: #8c8c8c
+}
+
+.box_2 button {
+    background-color: transparent;
+    border: none;
+    color: #0071eb;
+    margin-bottom: 13px;
+}
+
