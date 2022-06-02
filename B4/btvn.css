@@ -1,0 +1,29 @@
+
+*{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header p{
+  background-color: #9b59b6;
+  padding: 20px 35px;
+  color:white;
+  font-weight: bold;
+  font-size: 24px;
+  border-color: red;
+  border-style: double none;
+}
+
+.header_box span{
+    color: red;
+}
+.body{
+    background-color: #3498db;
+    padding: 20px 30px;
+    border: 2px solid red;
+    margin: 20px auto;
+  
+}
